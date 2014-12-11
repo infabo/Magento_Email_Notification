@@ -1,0 +1,9 @@
+app/code/local/Vijaystore/Emailnotify app/code/local/Vijaystore/Emailnotify
+app/design/frontend/default/default/layout/vijaystore/emailnotify.xml app/design/frontend/default/default/layout/vijaystore/emailnotify.xml
+app/design/frontend/default/default/template/catalog/product/list.phtml app/design/frontend/default/default/template/catalog/product/list.phtml
+app/design/frontend/default/default/template/catalog/product/view.phtml app/design/frontend/default/default/template/catalog/product/view.phtml
+app/design/frontend/default/default/template/email_notify app/design/frontend/default/default/template/email_notify
+app/etc/modules/Vijaystore_Emailnotify.xml app/etc/modules/Vijaystore_Emailnotify.xml
+app/locale/en_US/template/email/emailnotify_stock_update.html app/locale/en_US/template/email/emailnotify_stock_update.html
+lib/xl-reader lib/xl-reader
+skin/frontend/default/default/email_notify skin/frontend/default/default/email_notify
