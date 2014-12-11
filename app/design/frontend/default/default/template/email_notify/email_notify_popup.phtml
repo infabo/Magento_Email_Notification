@@ -30,7 +30,7 @@ if(Mage::getSingleton('customer/session')->isLoggedIn()) {
 				
 				<input type="text" name="email_notify_text" id="email_notify_text" class="input-text " placeholder="Enter The Email Id" value="<?php echo $current_cust_email; ?>" autocomplete="off" />			
 				&nbsp;&nbsp;&nbsp;
-				<button class="button" title="Email Notify" type="button" onclick="return notify_email();">
+				<button class="button" title="Email Notify" type="button" onclick="return notifyEmail();">
 					<span>
 						<span><?php echo $this->__('Notify Me');?></span>
 					</span>

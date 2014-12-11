@@ -1,4 +1,4 @@
-function notify_email()
+function notifyEmail()
 {
 	var post_url = $F('email_notify_url');
 	var email = $F('email_notify_text');
