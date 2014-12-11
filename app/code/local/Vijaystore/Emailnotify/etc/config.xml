@@ -131,7 +131,7 @@
 		<emailnotify_tab>
 			<emailnotify_setting>
 				<emailnotify_active>0</emailnotify_active>
-				<!-- <emailnotify_js_config>0</emailnotify_js_config> -->
+				<emailnotify_js_config>0</emailnotify_js_config>
 				<emailnotify_subject>Reg:Product Avilable</emailnotify_subject>
 				<emailnotify_administrator>support</emailnotify_administrator>
 			</emailnotify_setting>
